@@ -3,5 +3,3 @@ def using_while
   #your code here
   puts "Wingardium Leviosa"
 end
-
-
